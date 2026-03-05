@@ -14,4 +14,4 @@ Tech Stack
 - REST APIs
 
 Live Demo
-https://service-health-dashboard.lovable.app
+https://microservices-health-dashboard.lovable.app/
